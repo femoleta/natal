@@ -53,3 +53,5 @@ function tiraPalavrasRuins(palavras) {
     }
     return palavrasBoas;
 }
+
+import { PALAVRAS_RUINS } from "./palavrasRuins.js";
